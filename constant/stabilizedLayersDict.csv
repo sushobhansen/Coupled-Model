@@ -1,0 +1,4 @@
+object,stabilizedLayers
+Layers,1
+layer,type,thickness,k,rho,cp,albedo,emissivity,nodes
+1,PCC,0.1,1.31,2400,1100,0.1,0.85,20
